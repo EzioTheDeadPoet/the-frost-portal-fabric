@@ -1,30 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "the-frost-portal-fabric",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "The-Frost-Portal",
+  "description": "This is a simple mod adding a portal to for the \"The Frost\" Dimension. Only Contains the portal!",
   "authors": [
-    "Me!"
+    "EzioTheDeadPoet"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/EzioTheDeadPoet/the-frost-portal-fabric",
+    "sources": "https://github.com/EzioTheDeadPoet/the-frost-portal-fabric"
   },
 
-  "license": "CC0-1.0",
+  "license": "GPL-3.0",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.eziothedeadpoet.the_frost_portal.TheFrostPortal"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
+  "mixins": [  ],
 
   "depends": {
     "fabricloader": ">=0.13.3",

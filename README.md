@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# The Frost Portal (Fabric)
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod simply adds a Portal to the "The Frost" - Dimension of the similarly
+named Datapack. Found [here.](https://www.planetminecraft.com/data-pack/the-frost-1-18-dimension-wip/)
+
+### Portal Frame and Lighter
+
+The Frame uses Packed Ice Blocks 
+and you light the portal with the normal flint and steel.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+[GPL-3.0](LICENSE)
