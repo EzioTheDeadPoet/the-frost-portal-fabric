@@ -14,4 +14,4 @@ and you light the portal with the normal flint and steel.
 
 ## License
 
-[GPL-3.0](LICENSE)
+[License](LICENSE)
